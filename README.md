@@ -1,13 +1,14 @@
 # Text-to-speech using letter-phone ([phonetics term](https://en.wikipedia.org/wiki/Phone_(phonetics)), not "telephone"!) mapping. 
 
+## In-progress, not usable.
+
 I'm inspired by:
 - Undertale (https://www.youtube.com/watch?v=gGROjaIw5Xw) 
 - Animal Crossing (https://www.youtube.com/watch?v=YekLRkiIW4Y)
 - Banjo-Kazooie (https://www.youtube.com/watch?v=lPeuuCbc55c)
-
-Implementation is inspired by the following videos:
-- by Mizizizizi: https://www.youtube.com/watch?v=Eu7BcyyQsXs
-- by Blipsounds: https://www.youtube.com/watch?v=4W57Wy6veUM
+- video by Polygon: https://www.youtube.com/watch?v=xYZMWkmXX3k 
+- video by Mizizizizi: https://www.youtube.com/watch?v=Eu7BcyyQsXs
+- video by Blipsounds: https://www.youtube.com/watch?v=4W57Wy6veUM
 
 # TODO
 1. types of letter-phone mapping:
