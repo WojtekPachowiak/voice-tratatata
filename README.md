@@ -21,7 +21,7 @@ Implementation is inspired by the following videos:
     - both vowels and consonants
     - exotic sounds (clicks)
     - fricatives, plosives, trills
-    - non-human sounds (mechanical, industrial, animal)
+    - non-human sounds (mechanical, industrial, animal, beeps)
 3. pitch
     - uniform
     - variable
