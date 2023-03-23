@@ -27,13 +27,13 @@ I'm inspired by:
     - uniform
     - variable
       - random
-      - based on real vowel properties
+      - ~~based on real vowel properties~~ ()
 4. Character/phone coverage:
     - single phone
     - Latin alphabet characters
     - [International Phonetic Alphabet](https://www.ipachart.com/) (IPA) characters
 5. Adding procedural variation to pronunciation (people's voices differ, right?):
-    - pitch
+    - pitch 
     - speed
     - "nasalness"
     - signal processing:

@@ -1,0 +1,14 @@
+    {
+    "general": [
+        {
+            "name":"Pitch",
+            "type": "uniform",
+            "value": 5
+        },
+        {
+            "name":"Speed",
+            "type": "uniform",
+            "value" : 222
+        }
+    ]
+}
