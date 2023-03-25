@@ -1,6 +1,6 @@
-# Text-to-speech using letter-phone ([phonetics term](https://en.wikipedia.org/wiki/Phone_(phonetics)), not "telephone"!) mapping. 
+# :loudspeaker: Text-to-speech using letter-phone ([phonetics term](https://en.wikipedia.org/wiki/Phone_(phonetics)), not "telephone"!) mapping. 
 
-Provide some text, Tratatata (the number of repeated "-ta" suffixes may vary :D) will pronounce it.
+**Provide some text, *Tratatata* will pronounce it.**
 
 There's a default map which maps latin letters to pronunciations of vowels and consonants (recorded by myself! :D). The letters not in this map will be ignored. \
 You can also provide your own yaml file containing a mapping from your letters/characters to your sounds.
@@ -72,7 +72,7 @@ I'm inspired by:
 - video by Mizizizizi: https://www.youtube.com/watch?v=Eu7BcyyQsXs
 - video by Blipsounds: https://www.youtube.com/watch?v=4W57Wy6veUM
 
-# TODO
+## TODO
 + pitch
     - uniform
     - variable
